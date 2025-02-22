@@ -28,4 +28,10 @@ this project provides a flexible Tic-Tac-Toe game built with [pygame](https://gi
 - The first player to align the required number of marks horizontally, vertically, or diagonally wins.
 - If the board fills without a winner, the game ends in a draw.
 ## 🖼 Screenshots
-![The graphical board](snapshots/board.png)
+### the graphical board :
+![the graphical board](snapchots/board.png"the graphical board")
+### the start prompt
+![the start board](snapchots/end.png"the start board")
+
+### the end prompt
+![the end board](snapchots/start.png"the end board")
