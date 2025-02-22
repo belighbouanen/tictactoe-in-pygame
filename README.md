@@ -16,7 +16,7 @@ this project provides a flexible Tic-Tac-Toe game built with [pygame](https://gi
 
    ```sh
    pip install pygame
-   pip install 
+   pip install pygame-widgets
 	```
 3. Run the game:
    ```sh
