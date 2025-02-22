@@ -214,7 +214,7 @@ class Move:
 pygame.init()
 pygame.mixer.init()
 path = os.path.dirname(__file__)
-click_sfx = pygame.mixer.Sound(os.path.join(path,"sound\click.wav"))
+click_sfx = pygame.mixer.Sound(os.path.join(path,"sounds\click.wav"))
 clock = pygame.time.Clock()
 FPS = 30
 pygame.font.init()
