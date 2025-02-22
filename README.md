@@ -36,5 +36,5 @@ this project provides a flexible Tic-Tac-Toe game built with [pygame](https://gi
 
 
 ### the end prompt
-![The end board](snapshots/end.png)
+![The end board](snapshots/ended.png)
 
