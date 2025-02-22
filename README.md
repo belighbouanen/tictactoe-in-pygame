@@ -22,6 +22,7 @@ this project provides a flexible Tic-Tac-Toe game built with [pygame](https://gi
    pip install 
 ```
 3. Run the game:
+
    ```sh
    python main_game.py
 ```
