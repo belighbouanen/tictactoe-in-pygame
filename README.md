@@ -29,9 +29,12 @@ this project provides a flexible Tic-Tac-Toe game built with [pygame](https://gi
 - If the board fills without a winner, the game ends in a draw.
 ## 🖼 Screenshots
 ### the graphical board :
-![the graphical board](snapchots/board.png"the graphical board")
+![The graphical board](snapshots/board.png)
+
 ### the start prompt
-![the start board](snapchots/end.png"the start board")
+![The start board](snapshots/start.png)
+
 
 ### the end prompt
-![the end board](snapchots/start.png"the end board")
+![The end board](snapshots/end.png)
+
