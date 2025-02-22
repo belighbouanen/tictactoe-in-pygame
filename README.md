@@ -17,15 +17,16 @@ this project provides a flexible Tic-Tac-Toe game built with [pygame](https://gi
 1. Install [Python](https://www.python.org/downloads/) (if not installed).
 2. Install dependencies:
 
-   ```sh
+```sh
    pip install pygame
    pip install 
 ```
+
 3. Run the game:
 
    ```sh
    python main_game.py
-```
+   ```
 ## 🎮 How to Play
 - Select your desired grid size and win condition.
 - Take turns placing marks (X and O).
